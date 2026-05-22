@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="100" fill="#111111"/>
+  <!-- Gradient ring -->
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="96" fill="none" stroke="url(#ring)" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="100" cy="78" r="28" fill="#BBCCD7" opacity="0.9"/>
+  <!-- Body -->
+  <path d="M72 130 Q72 150 100 150 Q128 150 128 130" fill="#BBCCD7" opacity="0.7"/>
+</svg>

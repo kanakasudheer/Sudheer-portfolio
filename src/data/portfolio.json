@@ -1,0 +1,118 @@
+{
+  "profile": {
+    "name": "M.V. KANAKA SUDHEER",
+    "shortName": "KANAKA SUDHEER",
+    "tagline": "AI & Frontend Developer building intelligent and user-friendly applications.",
+    "role": "AI & ML, Frontend Developer",
+    "specialization": "AI-first frontend solutions",
+    "yearsOfExperience": "2",
+    "location": "Andhra Pradesh, India",
+    "bio": "Passionate AI and software developer with experience in building intelligent applications using Python, React, and Machine Learning technologies. Skilled in AI-driven solutions, prompt engineering, and modern web development with hands-on experience in recommendation systems, chatbots, and computer vision projects.",
+    "avatarSvg": "/avatar.jpg",
+    "social": {
+      "github": "https://github.com/kanakasudheer",
+      "linkedin": "https://www.linkedin.com/in/kanaka-sudheer-52b6ba266/",
+      "instagram": "",
+      "email": "kanakasudheermakam@gmail.com",
+      "phone": "+91 6302030885",
+      "website": ""
+    }
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Languages & Frameworks",
+        "items": ["Python", "JavaScript", "TypeScript", "React", "Flask", "HTML/CSS"]
+      },
+      {
+        "name": "AI & Machine Learning",
+        "items": ["NLP", "Computer Vision", "TensorFlow", "scikit-learn", "LSTM", "MediaPipe"]
+      },
+      {
+        "name": "Tools & Platforms",
+        "items": ["Git",  "Streamlit", "Gemini API", "OpenCV"]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Infosys Springboard",
+      "role": "Artificial Intelligence Intern",
+      "period": "Nov 2025 — Jan 2026",
+      "location": "Remote",
+      "summary": "Worked on AI-powered recommendation systems and intelligent e-commerce solutions.",
+      "highlights": [
+        "Built an AI-powered E-commerce Recommendation Engine for personalized product suggestions.",
+        "Performed data preprocessing, feature engineering, and machine learning model training.",
+        "Designed a responsive Streamlit-based UI with favorites functionality for enhanced user experience."
+      ]
+    },
+    {
+      "company": "IBM SkillsBuild",
+      "role": "AI & Cloud Intern",
+      "period": "Jul 2025 — Aug 2025",
+      "location": "Remote",
+      "summary": "Developed AI and forecasting solutions for power distribution systems.",
+      "highlights": [
+        "Implemented machine learning models for fault detection and classification.",
+        "Built LSTM-based time series forecasting models for future power load prediction.",
+        "Performed feature engineering, hyperparameter tuning, and model optimization."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "job-match-ai",
+      "title": "Job Match AI",
+      "subtitle": "AI-powered job and candidate matching platform",
+      "description": "An intelligent recruitment platform that uses NLP and semantic similarity to match candidates with suitable jobs based on skills and resume content. Includes portals for both recruiters and candidates.",
+      "stack": ["Python", "NLP", "Machine Learning", "streamlit"],
+      "link": "https://github.com/kanakasudheer/Job-Match-AI",
+      "image": "/projects/job.png",
+      "highlight": true
+    },
+    {
+      "id": "ai-chatbot",
+      "title": "AI ChatBot",
+      "subtitle": "Voice-enabled AI chatbot with Gemini integration",
+      "description": "Developed a modern AI chatbot with Google Gemini AI integration supporting speech-to-text, file uploads, and real-time conversations using Flask.",
+      "stack": ["Python", "Flask", "Gemini API"],
+      "role": "AI Developer",
+      "year": "2026",
+      "link": "https://github.com/kanakasudheer/AI-Chat-Bot",
+      "image": "/projects/chat.png",
+      "highlight": true
+    },
+    {
+      "id": "gesture-game-control",
+      "title": "Gesture Game Control",
+      "subtitle": "Computer vision-based gesture control system",
+      "description": "Created real-time computer vision applications using MediaPipe for hand tracking, pose estimation, and facial landmark detection with optimized cross-platform performance.",
+      "stack": ["Python", "OpenCV", "MediaPipe", "Computer Vision"],
+      "role": "Computer Vision Developer",
+      "year": "2025",
+      "link": "https://github.com/kanakasudheer/GestureRecognition-",
+      "image": "/src/assets/img/gesture-game-control.png",
+      "highlight": true
+    }
+  ],
+  "education": [
+    {
+      "institution": "Parul University",
+      "degree": "B.Tech in Computer Science Engineering(AI)",
+      "period": "2022 — 2026",
+      "CGPA": "7.55/10"
+    },
+     {
+      "institution": "Sri Chaitanya Jr College",
+      "degree": "MPC",
+      "period": "2020 — 2022",
+      "Marks":"789/1000"
+    },
+     {  
+      "institution": "Sri Chaitanya Techno School",
+      "period": "2019 — 2020",
+      "Marks":"593/600"
+    }
+  ]
+}
