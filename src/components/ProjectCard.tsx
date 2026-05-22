@@ -1,6 +1,6 @@
 import { AnimatePresence, motion, useMotionValue, useTransform } from 'framer-motion';
 import type { Project } from '../types/portfolio';
-import { ExternalLink, Calendar, User } from 'lucide-react';
+import { ExternalLink } from 'lucide-react';
 import { useState } from 'react';
 
 interface Props {
